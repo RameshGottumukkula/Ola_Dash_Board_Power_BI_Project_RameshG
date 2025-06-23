@@ -31,33 +31,56 @@ Average Distance Travelled
 Total Distance Travelled
 
 Page 3: Revenue
+
 Stacked Column Chart: Shows Revenue by Payment Method.
+
 Stacked Column Chart: Displays Ride Distance Over Time.
+
 Table: Highlights the Top 5 Customers by value.
+
 Date Slicer: For time-based filtering.
 
 Page 4: Cancellation
+
 KPI Cards:
+
   Total Bookings
+  
   Successful Bookings
+  
   Cancelled Bookings
+  
   Cancellation Rate
+
 Pie Charts:
+
     Cancelled Rides by Customers
+    
     Cancelled Rides by Drivers
-Date Slicer: Included for dynamic date filtering.
+
+DateSlicer: Included for dynamic date filtering.
 
 Page 5: Ratings
+
   Vehicle Images: Visual representation for each vehicle type.
+  
   Bar Charts:
+  
     Driver Ratings
+    
+    
     Customer Ratings
+  
   Date Slicer: Allows for ratings trend analysis over time.
 
 Navigation
+  
   All report pages include a left-side navigation menu with clickable links, allowing users to easily move between sections of the report.
 
 Tools Used
+  
   Power BI Desktop
+  
   DAX (Data Analysis Expressions)
+  
   Data Modeling and Visualization
