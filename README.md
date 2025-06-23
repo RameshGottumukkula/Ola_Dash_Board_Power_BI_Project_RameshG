@@ -16,11 +16,11 @@ Pie Chart: Shows Booking Status Breakdown.
 
 Date Slicer: Allows filtering by specific dates.
 
-Page 2: Vehicle Type
+# Page 2: Vehicle Type
 
 Vehicle Table: Lists all vehicle types along with their representative images.
 
-KPI Cards:
+## KPI Cards:
 
 Total Booking Value
 
@@ -30,7 +30,7 @@ Average Distance Travelled
 
 Total Distance Travelled
 
-Page 3: Revenue
+# Page 3: Revenue
 
 Stacked Column Chart: Shows Revenue by Payment Method.
 
@@ -40,9 +40,9 @@ Table: Highlights the Top 5 Customers by value.
 
 Date Slicer: For time-based filtering.
 
-Page 4: Cancellation
+# Page 4: Cancellation
 
-KPI Cards:
+## KPI Cards:
 
   Total Bookings
   
@@ -52,7 +52,7 @@ KPI Cards:
   
   Cancellation Rate
 
-Pie Charts:
+## Pie Charts:
 
     Cancelled Rides by Customers
     
@@ -60,11 +60,11 @@ Pie Charts:
 
 DateSlicer: Included for dynamic date filtering.
 
-Page 5: Ratings
+# Page 5: Ratings
 
   Vehicle Images: Visual representation for each vehicle type.
   
-  Bar Charts:
+  ## Bar Charts:
   
     Driver Ratings
     
@@ -73,11 +73,11 @@ Page 5: Ratings
   
   Date Slicer: Allows for ratings trend analysis over time.
 
-Navigation
+# Navigation
   
   All report pages include a left-side navigation menu with clickable links, allowing users to easily move between sections of the report.
 
-Tools Used
+# Tools Used
   
   Power BI Desktop
   
