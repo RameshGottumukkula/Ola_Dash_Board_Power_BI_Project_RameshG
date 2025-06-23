@@ -7,7 +7,7 @@ This project presents a comprehensive data analysis of Ola ride data using Power
 
 ## Data Set Used
 
-<a href="https://github.com/RameshGottumukkula/Ola_Dash_Board_Power_BI_Project_RameshG/blob/main/Bookings-100000-Rows.xlsx">Dataset</a>
+- <a href="https://github.com/RameshGottumukkula/Ola_Dash_Board_Power_BI_Project_RameshG/blob/main/Bookings-100000-Rows.xlsx">Dataset</a>
 
 
 
@@ -15,13 +15,10 @@ This project presents a comprehensive data analysis of Ola ride data using Power
 
 # Page 1: Overall
 
-KPI Cards: Displays Total Bookings and Total Booking Value.
-
-Line Chart: Visualizes Ride Volume Over Time.
-
-Pie Chart: Shows Booking Status Breakdown.
-
-Date Slicer: Allows filtering by specific dates.
+- KPI Cards: Displays Total Bookings and Total Booking Value.
+- Line Chart: Visualizes Ride Volume Over Time.
+- Pie Chart: Shows Booking Status Breakdown.
+- Date Slicer: Allows filtering by specific dates.
 
 # Page 2: Vehicle Type
 
