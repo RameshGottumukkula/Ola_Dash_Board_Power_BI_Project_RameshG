@@ -1,22 +1,33 @@
 Ola Data Analysis Dashboard (Power BI Project)
 
 This is about my Recent Ola_Dash_Board_Power_BI_Project
+
 This project presents a comprehensive data analysis of Ola ride data using Power BI. The report consists of five interactive pages designed to explore key metrics such as bookings, revenue, vehicle performance, cancellations, and ratings.
 
 Project Pages Overview
 
 Page 1: Overall
+
 KPI Cards: Displays Total Bookings and Total Booking Value.
+
 Line Chart: Visualizes Ride Volume Over Time.
+
 Pie Chart: Shows Booking Status Breakdown.
+
 Date Slicer: Allows filtering by specific dates.
 
 Page 2: Vehicle Type
+
 Vehicle Table: Lists all vehicle types along with their representative images.
+
 KPI Cards:
+
 Total Booking Value
+
 Successful Booking Value
+
 Average Distance Travelled
+
 Total Distance Travelled
 
 Page 3: Revenue
