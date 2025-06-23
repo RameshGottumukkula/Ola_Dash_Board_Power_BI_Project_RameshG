@@ -68,3 +68,5 @@ This project presents a comprehensive data analysis of Ola ride data using Power
   - Power BI Desktop
   - DAX (Data Analysis Expressions)
   - Data Modeling and Visualization
+# Dashboard Screen shorts
+![Overall](https://github.com/user-attachments/assets/bfd16c89-0c2f-43de-be30-27002cb395ce)
