@@ -70,3 +70,14 @@ This project presents a comprehensive data analysis of Ola ride data using Power
   - Data Modeling and Visualization
 # Dashboard Screen shorts
 ![Overall](https://github.com/user-attachments/assets/bfd16c89-0c2f-43de-be30-27002cb395ce)
+
+![Vehicle_type](https://github.com/user-attachments/assets/91b3c88a-560e-4ff6-9366-d6166a70e16c)
+
+![Revenue](https://github.com/user-attachments/assets/827187d6-41ad-400a-9699-a6f90a7c3f91)
+
+![Cancellation](https://github.com/user-attachments/assets/7a038d0b-5a23-49b2-b754-1f1cf09c8f1c)
+
+![Ratings](https://github.com/user-attachments/assets/fc80b9d2-3078-491a-871b-201c2661eee0)
+
+
+
